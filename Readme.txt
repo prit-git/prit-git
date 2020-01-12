@@ -9,3 +9,4 @@ Second File
 >>>>>>> parent of e671ede... Second Commit
 =======
 >>>>>>> parent of 2883867... Third commit
+Developer branch
