@@ -3,7 +3,7 @@ class HelloJava{
 
 public static void main(String args[]){
 
-System.out.println("Hello to the world of Simplilearn");
+System.out.println("Automated build via webhooks");
 
 }
 
